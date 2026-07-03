@@ -1,26 +1,34 @@
 # asmitdash-profile
 
-Six README design variants for a GitHub profile page. Pick one, copy its `README.md` into a repo named exactly `asmitdash` under the asmitdash account, and GitHub renders it at the top of the profile.
+Design gallery for the GitHub profile README at [`github.com/asmitdash`](https://github.com/asmitdash). Every variant here is built from **real** data — actual repos, actual publications, actual links. Pick one, copy its `README.md` into `asmitdash/asmitdash`, and it renders on the profile.
 
-Each variant is a self-contained folder. Open each one to see how it renders on GitHub.
+## Variants (six new, built 2026-07-03)
 
-| # | Variant | Vibe | Best if you want to signal… |
+Tone split: **3 systems-architect** (structure, diagrams, how-things-connect) + **3 momentum** (stats cards, shipping velocity, breadth of work).
+
+| # | Variant | Tone | Best if you want to signal… |
 |---|---|---|---|
-| 1 | [`01-minimalist-architect`](01-minimalist-architect/) | Restrained, no widgets, one-line positioning | Senior / staff engineer signal — quiet confidence |
-| 2 | [`02-terminal-fsociety`](02-terminal-fsociety/) | ASCII banner, mock-CLI aesthetic | Personality, hacker culture, plays with the 11fsociety host |
-| 3 | [`03-stats-widgets`](03-stats-widgets/) | Standard GitHub stats + streak + trophies | Momentum — active shipper, high-volume output |
-| 4 | [`04-systems-diagram`](04-systems-diagram/) | Mermaid architecture diagrams | AI systems architect / how-it-all-connects thinker |
-| 5 | [`05-journey-timeline`](05-journey-timeline/) | Chronological narrative | Growth story, especially for recruiters skimming the arc |
-| 6 | [`06-cinematic-projects`](06-cinematic-projects/) | Typewriter SVG header, big project cards | Portfolio-first — leads with the work, not the résumé |
+| 1 | [`01-libraries-are-the-work`](01-libraries-are-the-work/) | systems-architect | You ship *primitives* — 8 RAG/agent-memory libraries — not just apps |
+| 2 | [`02-architecture-in-blocks`](02-architecture-in-blocks/) | systems-architect | The stack behind the work. Mermaid diagrams. |
+| 3 | [`03-portfolio-with-diagrams`](03-portfolio-with-diagrams/) | systems-architect | Every project as a subsystem in one big diagram |
+| 4 | [`04-shipping-momentum`](04-shipping-momentum/) | momentum | Stats + streak + trophies + language chart |
+| 5 | [`05-projects-grid`](05-projects-grid/) | momentum | Big project grid, publications section, tech badges |
+| 6 | [`06-typewriter-portfolio`](06-typewriter-portfolio/) | momentum | Animated typewriter header, cards, and heavy visual polish |
+
+## Constants across all six
+
+- **Headline:** *"I design AI systems for a living."*
+- **Education:** B.Tech Computer Engineering, University of Mumbai (graduated)
+- **Employment:** AI Systems Architect Intern @ Deloitte
+- **Portfolio:** https://asmit-dash.vercel.app
+- **ORCID:** [0009-0003-4247-9312](https://orcid.org/0009-0003-4247-9312)
+- **Google Scholar:** [tyKozHwAAAAJ](https://scholar.google.com/citations?user=tyKozHwAAAAJ&hl=en) — 4 publications
+- **Contacts:** LinkedIn ([asmitdash](https://www.linkedin.com/in/asmitdash/)) · Twitter ([@AsmitDash007](https://twitter.com/AsmitDash007)) · Instagram ([@asmittdashh](https://www.instagram.com/asmittdashh/)) · Email (asmitdash44@gmail.com)
 
 ## How GitHub profile READMEs work
 
-Create a public repo whose name matches your GitHub username exactly (`asmitdash`), put a `README.md` at its root, and GitHub renders it at the top of `github.com/asmitdash`. Nothing else required.
+Create a public repo named exactly `asmitdash` (which already exists since 2023-12-30), put a `README.md` at its root, and GitHub renders it at the top of `github.com/asmitdash`.
 
-## Which to pick
+## Archive
 
-- **If you want quiet architect signal (Deloitte, staff roles):** variant 1 or 4.
-- **If you want to lead with the work:** variant 6.
-- **If you want to show momentum + community:** variant 3.
-- **If personality > polish:** variant 2.
-- **If the story is the strongest part:** variant 5.
+The [`archive/`](archive/) folder holds the six placeholder variants from the first pass — kept for comparison, but they used guessed/generic content and shouldn't be used as-is.
